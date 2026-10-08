@@ -66,8 +66,6 @@ MODEL_API_KEY=your-api-key
 npm run dev
 ```
 
-6. Open [http://localhost:3000](http://localhost:3000)
-
 ## Project Structure
 
 ```
